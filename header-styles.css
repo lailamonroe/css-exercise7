@@ -1,0 +1,30 @@
+html{
+    background-color:rgba(248, 209, 110, 0.493);
+}
+
+.wrapper{
+    background-color: rgba(215, 211, 211, 0.997);
+    padding: 5 0 5 0;
+}
+
+.header{
+    background-image: url("images/3-fruit.jpg");
+    height: 300px;
+}
+
+.site-id{
+    text-align: center;
+    background-color: rgba(255, 250, 239, 0.808);
+    border-top: 4px solid rgb(130, 60, 60);
+}
+
+.aside{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
+.main{
+    padding: 10px;
+}
